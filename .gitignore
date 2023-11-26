@@ -5,6 +5,7 @@ build/
 !**/src/test/**/build/
 
 ### IntelliJ IDEA ###
+*.log
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
@@ -47,3 +48,5 @@ saves
 resourcepacks
 logs
 config
+
+.idea

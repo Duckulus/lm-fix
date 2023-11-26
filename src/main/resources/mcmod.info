@@ -2,8 +2,8 @@
   {
     "modid": "${modid}",
     "name": "${name}",
-    "description": "An example mod for Forge 1.8.9",
-    "version": "${version}",
+    "description": "Fixes a bug which prevents you from joining 1.7 Servers when a mod sends a custom payload.",
+    "version": "${vesion}",
     "mcversion": "${mcversion}",
     "url": "",
     "updateUrl": "",

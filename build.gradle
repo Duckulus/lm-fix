@@ -25,9 +25,9 @@ apply plugin: 'org.spongepowered.mixin'
 
 version = "1.0"
 
-group = "org.example"
-archivesBaseName = "ExampleMod"
-String modid = "examplemod"
+group = "de.duckulus"
+archivesBaseName = "LabyDojoFix"
+String modid = "labydojofix"
 
 repositories {
     maven { url "https://jitpack.io" }

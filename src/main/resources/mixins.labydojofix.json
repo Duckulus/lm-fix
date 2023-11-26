@@ -1,0 +1,9 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.7",
+  "package": "de.duckulus.labydojofix.mixins",
+  "refmap": "mixins.labydojofix.refmap.json",
+  "mixins": [
+    "MixinNetworkManager"
+  ]
+}
