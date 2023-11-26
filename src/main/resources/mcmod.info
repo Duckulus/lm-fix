@@ -3,7 +3,7 @@
     "modid": "${modid}",
     "name": "${name}",
     "description": "Fixes a bug which prevents you from joining 1.7 Servers when a mod sends a custom payload.",
-    "version": "${vesion}",
+    "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "",
     "updateUrl": "",
