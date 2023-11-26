@@ -1,2 +1,3 @@
-## `Forge 1.8.9 Example`
-A Template for creating Minecraft mods for 1.8.9 using Forge and Mixins
+## `lm-fix`
+
+This mod fixes a small bug which prevents you from joining 1.7.10 Servers from 1.8.9 Clients
